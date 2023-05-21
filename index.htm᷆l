@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>pai_1_css</title>
+        <link rel="stylesheet" href="stylesheet.css">
+    </head>
+<h1><p class ="blue" id=</p> >Hello</p></h1>
+<h2><p>World</p></h2>
+<h3><p>WSB</p></h2>
+</html>
